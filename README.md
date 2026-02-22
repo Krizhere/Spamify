@@ -50,17 +50,25 @@ Built using Natural Language Processing (NLP) techniques and deployed with Strea
 
 ## 📂 Project Structure
 Spamify/
+
 │
+
+
 ├── app.py
+
+
 ├── model.pkl
+
 ├── vectorizer.pkl
+
 ├── requirements.txt
+
 ├── .gitignore
+
 └── README.md
 
 
 ---
-
 ## 💻 Installation (Run Locally)
 
 ```bash
@@ -69,7 +77,8 @@ cd Spamify-AI
 pip install -r requirements.txt
 streamlit run app.py
 
-📈 Future Improvements
+```
+## 📈 Future Improvements
 
 Deep Learning model integration
 
@@ -82,6 +91,8 @@ User authentication system
 👨‍💻 Author
 
 Krish Kumar
+
 Machine Learning Enthusiast 🚀
 
 ⭐ If you found this project useful, consider giving it a star!
+
