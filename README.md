@@ -7,7 +7,7 @@ Built using Natural Language Processing (NLP) techniques and deployed with Strea
 ---
 
 ## 🚀 Live Demo
-( Add your deployed link here )
+https://spamify-ai.streamlit.app/
 
 ---
 
@@ -95,4 +95,5 @@ Krish Kumar
 Machine Learning Enthusiast 🚀
 
 ⭐ If you found this project useful, consider giving it a star!
+
 
